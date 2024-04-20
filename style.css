@@ -1,0 +1,29 @@
+.container-cards {
+    background-color: aliceblue;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+ }
+
+.photos img {
+  width: calc(50% - 10px); 
+  margin-bottom: 20px; 
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
+
+.col {
+font-family: 'Lucida Sang', 'Lucida San Regular',  sans-serif;
+font-size: large;
+padding-top: 20px;
+margin-bottom: 20px;
+}
+
